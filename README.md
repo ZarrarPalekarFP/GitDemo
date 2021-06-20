@@ -1,4 +1,4 @@
-# DEMO
+# Demo
 
 Lets go!
 
